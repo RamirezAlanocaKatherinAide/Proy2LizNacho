@@ -1,0 +1,131 @@
+.antena
+{
+    background-color: blue;
+    width: 10px; height:80px;
+    position: fixed;
+    top:48px;
+    left:400px;
+}
+.cabeza
+{
+    background-color: orange;
+    width: 200px; height:200px;
+    position: relative;
+    top:120px;
+    left:300px;
+
+}
+.ojo1
+{
+background-color: blueviolet;
+width: 40px; height:30px;
+position: absolute;
+top:50px; left:50px;
+}
+.ojo2
+{
+background-color: blueviolet;
+width: 40px; height:30px;
+position: absolute;
+top:50px; right:50px;
+
+}
+.nariz
+{
+    background-color: yellow;
+    width: 40px; height:40px;
+    position: absolute;
+    top:90px; right:85px;
+    border-radius: 50%;
+}
+.boca
+{
+    background-color: blueviolet;
+    width: 80px; height:5px;
+    position: absolute;
+    top:160px; right:60px;
+}
+.cuello
+{
+    background-color: orange;
+    width: 60px; height:30px;
+    position: relative;
+    top:120px;
+    left:370px;
+}
+.cuerpo
+{
+    background-color: orange;
+    width: 200px; height:200px;
+    position: relative;
+    top:120px;
+    left:300px;
+}
+.caja1
+{
+    background-color: green;
+    width: 150px; height:50px;
+    position: absolute;
+    top:50px;
+    left:25px;
+}
+.caja2
+{
+    background-color: green;
+    width: 150px; height:50px;
+    position: absolute;
+    top:130px;
+    left:25px;
+}
+.mano1
+{
+    background-color: blue;
+    width: 200px; height:10px;
+    position: fixed;
+    top:420px;
+    left:140px;
+    transform: rotate(45deg);
+}
+.mano2
+{
+    background-color: blue;
+    width: 200px; height:10px;
+    position: fixed;
+    top:420px;
+    left:475px;
+    transform: rotate(135deg);
+}
+.cintura
+{
+    background-color: orange;
+    width: 150px; height:20px;
+    position: relative;
+    top:120px;
+    left:325px;
+}
+.pies
+{
+    background-color: orange;
+    width: 300px; height:150px;
+    position: relative;
+    top:120px;
+    left:245px;
+}
+.caja1-1
+{
+    background-color: green;
+    width: 50px; height:100px;
+    position: absolute;
+    top:25px;
+    left:25px;
+}
+.caja1-2
+{
+    background-color: green;
+    width: 50px; height:100px;
+    position: absolute;
+    top:25px;
+    right:25px;
+}
+
+
